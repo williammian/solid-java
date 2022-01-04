@@ -1,4 +1,4 @@
-package br.com.wm.rh.service;
+package br.com.wm.rh.service.reajuste;
 
 import java.math.BigDecimal;
 
